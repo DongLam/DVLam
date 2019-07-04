@@ -8,6 +8,7 @@ package baitap;
 /**
  *
  * @author BronzeForest
+ */
 public class Baitap {
     public static void main(String[] args) {
         float[] A = {1,4,3,7,9,5};
